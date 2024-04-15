@@ -39,6 +39,28 @@ app.MapControllerRoute(
     name: "cidade",
     pattern: "{controller=Cidade}/{action=Index}/{id?}");
 
+app.MapControllerRoute(
+    name: "tipo",
+    pattern: "{controller=Tipo}/{action=Index}/{id?}");
 
+app.MapControllerRoute(
+    name: "pessoa",
+    pattern: "{controller=Pessoa}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "usuario",
+    pattern: "{controller=Usuario}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "conta",
+    pattern: "{controller=Conta}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "imovel",
+    pattern: "{controller=Imovel}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "foto",
+    pattern: "{controller=Foto}/{action=Index}/{id?}");
 
 app.Run();

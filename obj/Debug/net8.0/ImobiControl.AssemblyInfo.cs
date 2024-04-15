@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImobiControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52b4b1de226d1df22ca135a88c19661e73a66780")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35ae0ffabc07e11e8ea5fcbeb8d8278b2bbf726a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImobiControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImobiControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
